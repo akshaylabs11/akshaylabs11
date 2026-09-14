@@ -24,7 +24,21 @@ I’m building practical projects that combine data, business, finance, and tech
 **AI:** AI Tools | Automation | Chatbots
 
 ---
+---
 
+## 🚀 Featured Project
+
+### 🏦 Banking & Financial Transaction Analytics | SQL
+
+A MySQL-based banking analytics project analyzing customer behavior, transactions, accounts, loans, and credit risk.
+
+**Tech:** MySQL | SQL | MySQL Workbench
+
+**Key concepts:** JOINs | CTEs | Window Functions | CASE | Subqueries | Aggregations
+
+🔗 [View Project](https://github.com/akshaylabs11/banking-financial-analytics-sql)
+
+---
 ## 🎯 Current Goal
 
 Building practical projects in analytics, finance, AI, and automation while developing job-ready technical skills.
